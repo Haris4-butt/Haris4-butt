@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haris4-butt
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++ and Java language.
+- 🌱 I’m currently learning C++ , Java and Python language.
 - 💞️ I’m looking for Team collaboration.
 - 📫 How to reach me ...   Through my email:buttharis425@gmail.com
 
